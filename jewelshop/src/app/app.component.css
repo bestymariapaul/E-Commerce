@@ -1,0 +1,32 @@
+.spacer{
+    flex: 1 1 auto;
+    font-size: large;
+}
+nav{
+    background-color: rgb(223, 235, 235);
+    overflow: hidden;
+    list-style-type: none;
+    flex: 1 1 auto;
+
+}
+.all{
+    list-style: none;
+    text-indent: 160px;
+    font-size: large;
+
+
+}
+ul { 
+    padding: 0px;
+ }
+ li {
+    float: left;
+    width: auto;
+    list-style: outside none none;
+ }
+ .color{
+    color: rgb(253, 253, 253);
+ }
+ .form-group{
+    border-color: antiquewhite;
+ }

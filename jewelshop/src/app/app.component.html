@@ -1,0 +1,23 @@
+<mat-toolbar class="color" color="primary">
+<span  [routerLink]="['/home']">{{title}}</span>
+<div class="spacer"></div>
+<a mat-button routerLink="about" routerLinkActive="active">ABOUT</a>
+<a mat-button routerLink="contactus" routerLinkActive="active">CONTACT US </a>
+<img src="https://cdn0.iconfinder.com/data/icons/travel-line-icons-vol-1/48/019-512.png" height="20" width="20">
+<a mat-button routerLink="cart" routerLinkActive="active">MY CART</a>
+<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJhIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNiAyNiI+PGRlZnM+PHN0eWxlPi5ie2ZpbGw6IzgzMjcyOTt9LmN7ZmlsbDpub25lO3N0cm9rZTojZWZlM2UzO3N0cm9rZS13aWR0aDoxLjRweDt9PC9zdHlsZT48L2RlZnM+PHBhdGggY2xhc3M9ImIiIGQ9Ik0xMywxNS43NWMtMy42NywwLTExLDEuODQtMTEsNS41djIuNzVIMjR2LTIuNzVjMC0zLjY2LTcuMzMtNS41LTExLTUuNVptMC0xMy43NWMtMy4wNCwwLTUuNSwyLjQ2LTUuNSw1LjVzMi40Niw1LjUsNS41LDUuNSw1LjUtMi40Niw1LjUtNS41LTIuNDYtNS41LTUuNS01LjVabTAsMTYuNWMzLjcxLDAsNy45NywxLjc3LDguMjUsMi43NUg0Ljc1Yy4zMi0uOTksNC41NS0yLjc1LDguMjUtMi43NW0wLTEzLjc1YzEuNTEsMCwyLjc1LDEuMjQsMi43NSwyLjc1cy0xLjI0LDIuNzUtMi43NSwyLjc1LTIuNzUtMS4yNC0yLjc1LTIuNzUsMS4yNC0yLjc1LDIuNzUtMi43NSIvPjxwYXRoIGNsYXNzPSJjIiBkPSJNMTMsMTUuNzVjLTMuNjcsMC0xMSwxLjg0LTExLDUuNXYyLjc1SDI0di0yLjc1YzAtMy42Ni03LjMzLTUuNS0xMS01LjVabTAtMTMuNzVjLTMuMDQsMC01LjUsMi40Ni01LjUsNS41czIuNDYsNS41LDUuNSw1LjUsNS41LTIuNDYsNS41LTUuNS0yLjQ2LTUuNS01LjUtNS41Wm0wLDE2LjVjMy43MSwwLDcuOTcsMS43Nyw4LjI1LDIuNzVINC43NWMuMzItLjk5LDQuNTUtMi43NSw4LjI1LTIuNzVtMC0xMy43NWMxLjUxLDAsMi43NSwxLjI0LDIuNzUsMi43NXMtMS4yNCwyLjc1LTIuNzUsMi43NS0yLjc1LTEuMjQtMi43NS0yLjc1LDEuMjQtMi43NSwyLjc1LTIuNzUiLz48L3N2Zz4=" height="20" width="20"><a mat-button routerLink="login" routerLinkActive="active">LOGIN </a>
+</mat-toolbar>
+<nav>
+  <div >
+    <div  >
+      <ul>
+  <li class="all" [routerLink]="['/alljewellery']">ALL JEWELLERY</li>
+  <li class="all" [routerLink]="['/gold']">GOLD</li>
+  <li class="all" [routerLink]="['/diamond']"> DIAMOND</li>
+  <li class="all" [routerLink]="['/earrings']"> EARRINGS</li>
+  <li class="all" [routerLink]="['/rings']">RINGS</li>
+</ul>
+  </div>
+</div>
+</nav>
+<router-outlet></router-outlet>

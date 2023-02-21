@@ -1,0 +1,28 @@
+
+<table align="center">
+    <tbody align="center">
+        
+        <tr *ngFor="let item of productdata">
+           
+            <td *ngFor="let image of item.image">
+           
+            <img [src]="image" height="300" width="300"/>
+           
+            </td>
+
+            <td><h3>{{item.id}}</h3><b></b>
+                <h1>{{item.name}}</h1><b>
+                <h3>Price: {{item.price}}</h3><b></b>
+                <h3><b></b></h3></b>
+                <h4>{{item.description}}</h4><br/>
+            </td>
+
+            <td><button class="box" (click)="addtocart(item)">ADD TO CART</button></td>
+            <td><button class="box"  [routerLink]="['/cart']" (click)="addtocart(item)">BUY NOW</button></td>
+           
+            </tr>
+            
+           
+            </tbody>
+           
+            </table>

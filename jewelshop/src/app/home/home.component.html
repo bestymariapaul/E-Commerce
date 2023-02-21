@@ -1,0 +1,9 @@
+
+
+  <div class="row">  
+    <ngx-slick-carousel class="carousel" #slickModal="slick-carousel" [config]="slideConfig">  
+      <div ngxSlickItem *ngFor="let image of images" class="slide">  
+        <a routerLink="/gold"><img src="{{ image.img }}" width="1200" height="500"></a>  
+      </div>  
+    </ngx-slick-carousel>  
+  </div>  

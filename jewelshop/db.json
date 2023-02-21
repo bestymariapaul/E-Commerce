@@ -1,0 +1,299 @@
+{
+  "cart": [],
+  "register": [
+    {
+      "fullname": "Besty Maria Paul",
+      "email": "besty.paulson@aspiresys.com",
+      "password": "Besty123",
+      "mobile": "8129338896",
+      "id": 1
+    },
+    {
+      "fullname": "qwert",
+      "email": "bestymaria222@gmail.com",
+      "password": "123",
+      "mobile": "1234567890",
+      "id": 2
+    }
+  ],
+  "Alljewellery": [
+    {
+      "id": 101,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/511072SAGABA00.jpg"
+      ],
+      "name": "Surreal Gold Jali Work Stud Earrings",
+      "price": 35427,
+      "description": "Geometric Filigree Stud Earrings Crafted in 22 Karat High Polish Yellow Gold suitable for all occasions."
+    },
+    {
+      "id": 102,
+      "image": [
+        "https://www.resizepixel.com/Image/9vvlg733ly/Preview/img1.jpg?v=22029dbd-207b-4777-a8cc-e4fb9d041b30"
+      ],
+      "name": "Classy 18 Karat Yellow And White Gold And Diamond Flower Stud Earrings",
+      "price": 39719,
+      "description": "These surreal 18 Karat yellow and white gold studs feature an edgy floral cutout motif studded with round nick-set diamonds. Stone Clarity: SI2"
+    },
+    {
+      "id": 103,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/501920PLEAAA00_1.jpg"
+      ],
+      "name": "Charming Delicate Pendant",
+      "price": 8992,
+      "description": "Add a delicate charm to your work wear attire with this lovely pendant crafted in 18 karat yellow gold"
+    },
+    {
+      "id": 104,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/500149PSAAAAPL_1.jpg"
+      ],
+      "name": "Classy Elegant Pearl Pendant",
+      "price": 6876,
+      "description": "A classy pearl forms the center of this pendant crafted in 18 karat yellow gold and studded with pearls."
+    },
+    {
+      "id": 105,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/51D2I1FEHAA00_1.jpg"
+      ],
+      "name": "Modern Dual Leaf Gold Finger Ring",
+      "price": 14774,
+      "description": "Glamourise your everyday attires with this Modern Dual Leaf Gold Finger Ring crafted in 22 Karat Yellow Gold"
+    },
+    {
+      "id": 106,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I1FDZAA02_1.jpg"
+      ],
+      "name": "Subtle Butterflies Finger Ring",
+      "price": 34354,
+      "description": "Elevate your ensembles to new heights with this butterfly inspired finger ring crafted in 18 Karat Yellow Gold adorned with diamonds. Stone Clarity SI2"
+    },
+    {
+      "id": 107,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/50F2I1FAEAA31_1.jpg"
+      ],
+      "name": "Floral Navaratnam Finger Ring",
+      "price": 18796,
+      "description": "Make traditional occasions extra special with this floral Navaratnam finger ring crafted in 18 Karat Yellow Gold with diamonds. Stone Clarity VVS1"
+    },
+    {
+      "id": 108,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/50T442FEQAA00_1.jpg"
+      ],
+      "name": "Rococo Yellow Gold Waved Finger Ring",
+      "price": 19990,
+      "description": "This striking 18 Karat yellow gold ring features a polished gold wave lined with 7 gold beads "
+    },
+    {
+      "id": 109,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/51D2I1FEQAA00_1.jpg"
+      ],
+      "name": "Oval Leaf Rimmed Gold Finger Ring",
+      "price": 15990,
+      "description": "Subtle and sublime at the same time, this Oval Leaf Rimmed Gold Finger Ring crafted in 22 Karat Yellow Gold makes for a Modern wear."
+    },
+    {
+      "id": 110,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/511920PDWAAA00_1.jpg"
+      ],
+      "name": "Sumptuous Yellow Gold Carved Teardrop Pendant",
+      "price": 25590,
+      "description": "This grand 22 Karat gold pendant is shaped like a curved teardrop, with a carved panel of flower petals and leaves"
+    }
+  ],
+  "gold": [
+    {
+      "id": 111,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/511072SAGABA00.jpg"
+      ],
+      "name": "Surreal Gold Jali Work Stud Earrings",
+      "price": 35427,
+      "description": "Geometric Filigree Stud Earrings Crafted in 22 Karat High Polish Yellow Gold suitable for all occasions."
+    },
+    {
+      "id": 112,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/511920PDWAAA00_1.jpg"
+      ],
+      "name": "Sumptuous Yellow Gold Carved Teardrop Pendant",
+      "price": 25590,
+      "description": "This grand 22 Karat gold pendant is shaped like a curved teardrop, with a carved panel of flower petals and leaves"
+    },
+    {
+      "id": 113,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/513220PFLAAA00_1.jpg"
+      ],
+      "name": "Sumptuous Yellow Gold Carved Teardrop Pendant",
+      "price": 16686,
+      "description": "Inspired by the vast beauty of nature, this ethnic paisley pendant with a mesh design is crafted in 22 Karat Yellow"
+    },
+    {
+      "id": 114,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/513220FDYAA00_1.jpg"
+      ],
+      "name": "Charming Single Stone Lotus Finger Ring",
+      "price": 15590,
+      "description": "The entwined lotuses give this Single Stone finger ring an ethnic and a surreal charm. Crafted in 22 Karat Yellow"
+    },
+    {
+      "id": 115,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/501195CPXAA00_1.jpg"
+      ],
+      "name": "Elegant Gold Chain",
+      "price": 28590,
+      "description": "TMulti Pattern Chain Crafted in 18 Karat Yellow Gold"
+    }
+  ],
+  "diamond": [
+    {
+      "id": 116,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/502999VTA1A02_1.jpg"
+      ],
+      "name": "Ethereal Diamond Bangle In White And Rose Gold",
+      "price": 125590,
+      "description": "Vine inspired diamond bangle crafted in 18 karat white and rose gold. Stone quality - SI2. The dainty design makes this a charm jewellery."
+    },
+    {
+      "id": 117,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/503920VCA1A02_1.jpg"
+      ],
+      "name": "Floral Diamond Clusters Gold Bangle",
+      "price": 145590,
+      "description": "This grand 22 Karat gold pendant is shaped like a curved teardrop, with a carved panel of flower petals and leaves"
+    },
+    {
+      "id": 118,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/503920PBIAAA02_1.jpg"
+      ],
+      "name": "Precious Floral Diamond Pendant In Yellow And White Gold",
+      "price": 195590,
+      "description": "This grand 22 Karat gold pendant is shaped like a curved teardrop, with a carved panel of flower petals and leaves"
+    },
+    {
+      "id": 119,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/503117SHSABA02.jpg"
+      ],
+      "name": "Alluring Cluster Diamond Stud Earrings In Yellow And Rose Gold",
+      "price": 125590,
+      "description": "Crescent Design Stud Earrings set in 18 Karat Yellow and Rose Gold and studded with Diamonds in a red antique"
+    },
+    {
+      "id": 120,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/504002YRZAA32_1.jpg"
+      ],
+      "name": "Mesmerising Diamond Mangalsutra In Yellow And Rose Gold",
+      "price": 165590,
+      "description": "Floral mangalsutra set in 18 karat yellow and rose gold. This mangalsutra features an elegant blend of floral "
+    }
+  ],
+  "earrings": [
+    {
+      "id": 121,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/511072SAGABA00.jpg"
+      ],
+      "name": "Surreal Gold Jali Work Stud Earrings",
+      "price": 35427,
+      "description": "Geometric Filigree Stud Earrings Crafted in 22 Karat High Polish Yellow Gold suitable for all occasions."
+    },
+    {
+      "id": 122,
+      "image": [
+        "https://www.resizepixel.com/Image/9vvlg733ly/Preview/img1.jpg?v=22029dbd-207b-4777-a8cc-e4fb9d041b30"
+      ],
+      "name": "Classy 18 Karat Yellow And White Gold And Diamond Flower Stud Earrings",
+      "price": 39719,
+      "description": "These surreal 18 Karat yellow and white gold studs feature an edgy floral cutout motif studded with round nick-set diamonds. Stone Clarity: SI2"
+    },
+    {
+      "id": 123,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/512814SQFABA40_1.jpg"
+      ],
+      "name": "Gorgeous 22 Karat Yellow Gold And Stone Studs",
+      "price": 37991,
+      "description": "These 22 Karat gold studs showcase two layers of rubies in gold casings, creating a floral structure, highlighting a lone emerald stone at the center"
+    },
+    {
+      "id": 124,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/511920PDWAAA00_1.jpg"
+      ],
+      "name": "Spectacular Floral Diamond Stud Earrings",
+      "price": 34590,
+      "description": "Add pizzazz to your Office Wear look with these Floral Diamond Stud Earrings Crafted in 18 Karat Glossy Yellow"
+    },
+    {
+      "id": 125,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1SHEABAP1_1.jpg"
+      ],
+      "name": "Glamorous Floral Gold Stud Earrings",
+      "price": 35590,
+      "description": "Featuring a unique design, this pair of diamond studded drop earrings is crafted in 18 Karat Rose Gold. Stone Clarity SI2"
+    }
+  ],
+  "rings": [
+    {
+      "id": 126,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/51D2I1FEHAA00_1.jpg"
+      ],
+      "name": "Modern Dual Leaf Gold Finger Ring",
+      "price": 14774,
+      "description": "Glamourise your everyday attires with this Modern Dual Leaf Gold Finger Ring crafted in 22 Karat Yellow Gold"
+    },
+    {
+      "id": 127,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/503117FUYAA04.jpg"
+      ],
+      "name": "Bold Stylish Diamond Ring For Men",
+      "price": 42590,
+      "description": "Add a touch of sparkle to your stylish persona with this bold ring crafted in 18 karat yellow gold studded with diamonds. Stone Clarity: VS G-H"
+    },
+    {
+      "id": 128,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/513220FIIAAP1.jpg"
+      ],
+      "name": "Striking Floral Ring With Gemstones",
+      "price": 26590,
+      "description": "Add the timeless grace of nature to your ensemble with this striking floral ring crafted in 22 Karat Yellow Gold"
+    },
+    {
+      "id": 129,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/502996FUMAA09_1.jpg"
+      ],
+      "name": "Floral Motif Gold And Diamond Finger Ring",
+      "price": 24590,
+      "description": "Add a splash of extravagance to your subtle look with this floral diamond finger ring crafted in 18 Karat Yellow"
+    },
+    {
+      "id": 130,
+      "image": [
+        "https://staticimg.titan.co.in/Tanishq/Catalog/500496FDAAA09.jpg"
+      ],
+      "name": "Dainty 18 Karat Yellow Gold And Diamond Finger Ring",
+      "price": 24042,
+      "description": "This 18 Karat gold ring features a four-diamond flower at the center, heightened by another curved gold stem with a three-diamond flower on top. Stone clarity: I1 I2"
+    }
+  ]
+}
